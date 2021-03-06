@@ -8,5 +8,5 @@ Cheers to the tutorial writers!
 
 ## Projects
 
-* tic-tac-toe
-
+* tic-tac-toe (https://reactjs.org/tutorial/tutorial.html#before-we-start-the-tutorial)
+* 
