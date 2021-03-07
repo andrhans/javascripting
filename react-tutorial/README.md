@@ -1,4 +1,6 @@
-This was done following the <html src="https://github.com/taniarascia/react-tutorial">React Tutorial</html> by Tania Rascia
+This was done following the [React Tutorial](https://www.taniarascia.com/getting-started-with-react/) by Tania Rascia.
+
+Complete source code can be found [here](https://github.com/taniarascia/react-tutorial/).
 
 # Getting Started with Create React App
 
