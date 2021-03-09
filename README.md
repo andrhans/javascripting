@@ -1,4 +1,4 @@
-# JavaScripting
+# JavaScript-ing
 
 Collection of small projects made in JavaScript
 
