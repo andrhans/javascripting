@@ -11,4 +11,6 @@ Cheers to the tutorial writers!
 * tic-tac-toe (https://reactjs.org/tutorial/tutorial.html#before-we-start-the-tutorial)
 * Simple React app (https://www.taniarascia.com/getting-started-with-react/)
 * Ghibli App - api-javascript (https://www.taniarascia.com/how-to-connect-to-an-api-with-javascript/)
+
+## Exercising
 * simple-js - simple js exercises from JavaScript Hero (https://www.jshero.net/en/home.html)
